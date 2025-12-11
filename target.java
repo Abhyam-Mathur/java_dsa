@@ -16,10 +16,11 @@ public class target {
         for(int j=i+1;j<size;j++){
             sum=arr[i]+arr[j];
 
-        if(sum==target){
-            System.out.println("targets  "+ arr[i] + "+"+ arr[j]);
+        if(sum==target) {
+            System.out.println("targets  " + arr[i] + "+" + arr[j]);
+        }
+
         }
     }
     }
     }
-}
