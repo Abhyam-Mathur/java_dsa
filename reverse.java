@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class pailndrome {
+public class reverse {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.println("Enter a no ");
