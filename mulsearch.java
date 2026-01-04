@@ -21,7 +21,7 @@ public class mulsearch {
         for (int i = 0; i < arr.length ; i++) {
             for (int j = 0; j <arr[i].length ; j++) {
                 if(arr[i][j]==x){
-                    System.out.println("yes present in array: "+arr[i][j]);
+                    System.out.println("yes present in array: at position: "+i +" "+ j);
                 }
             }
 
